@@ -1,0 +1,5 @@
+---
+applications:
+    - name: ProdictiveParallelIngestionService
+      buildpack: java_buildpack
+      path: target/parallelingestion-0.0.1-SNAPSHOT.jar
