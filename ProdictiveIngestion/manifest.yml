@@ -1,0 +1,5 @@
+---
+applications:
+    - name: ProdictiveIngestionService
+      buildpack: java_buildpack
+      path: target/ingestiontime-0.0.1-SNAPSHOT.jar
