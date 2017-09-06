@@ -1,0 +1,7 @@
+---
+applications:
+  - name: machine-backend
+    buildpack: java_buildpack
+    path: target/MachineTutorial-v1.jar
+    memory: 1G
+    instances: 1
