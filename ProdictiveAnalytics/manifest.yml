@@ -1,0 +1,6 @@
+---
+applications:
+    - name: ProdictiveService
+      memory: 1G
+      buildpack: java_buildpack
+      path: target/prodictive-0.0.1-SNAPSHOT.jar
