@@ -1,0 +1,5 @@
+---
+applications:
+- name: sm-asset-timeseries
+buildpack: java_buildpack
+path: target/TimeSeriesService-0.0.1-SNAPSHOT.jar
